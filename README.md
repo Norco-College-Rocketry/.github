@@ -1,1 +1,1 @@
-# .github
+# Norco College Rocketry
